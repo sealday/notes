@@ -1,0 +1,4 @@
+GET /note   获取笔记列表
+POST /note  创建一个新的笔记
+UPDATE /note/{id} 更新指定笔记
+DELETE /note/{id} 删除指定笔记
