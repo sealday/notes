@@ -1,12 +1,8 @@
-[MongoDB oplog with meteor][1]
-
-[youtube something][2]
-
-[eventedmind][3]
-
-[meteortips][4]
-
-[gnu tools in mac][5]
++ [MongoDB oplog with meteor][1]
++ [youtube something][2]
++ [eventedmind][3]
++ [meteortips][4]
++ [gnu tools in mac][5]
 
 
 [1]: https://meteorhacks.com/mongodb-oplog-and-meteor
