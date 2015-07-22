@@ -1,6 +1,6 @@
 + [MongoDB oplog with meteor][1]
 + [youtube something][2]
-+ [eventedmind][3]
++ [evented mind][3]
 + [meteortips][4]
 + [gnu tools in mac][5]
 
