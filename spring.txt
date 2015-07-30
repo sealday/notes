@@ -1,3 +1,0 @@
-
-// Spring based open source
-http://stackoverflow.com/questions/2604655/any-open-source-spring-sample-project-thats-bigger-than-petclinic
