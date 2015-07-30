@@ -1,5 +1,0 @@
-
-http://sparkle-project.org // free software updates for all
-
-kivy.org
-
