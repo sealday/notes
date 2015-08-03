@@ -6,6 +6,7 @@ learn javascript core & DOM
 - [javascript garden][3]
 - [js prototype][4]
 - [nextsibling vs childnodes][5]
+- [how to write a robust isarray][7]
 
 typescript
 - [TypeScript Deep Dive][6]
@@ -16,3 +17,4 @@ typescript
 [4]: http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/
 [5]: http://jsperf.com/nextsibling-vs-childnodes
 [6]: http://basarat.gitbooks.io/typescript/
+[7]: http://perfectionkills.com/instanceof-considered-harmful-or-how-to-write-a-robust-isarray/
