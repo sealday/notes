@@ -15,7 +15,11 @@ vim 酷酷的壳上面的vim教程
 vim wiki
 - [using tab pages][4]
 
+vimrc
+- [vimified framework][5]
+
 [1]: http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 [2]: http://www.viemu.com/a-why-vi-vim.html
 [3]: http://coolshell.cn/tag/vim
 [4]: http://vim.wikia.com/wiki/Using_tab_pages
+[5]: https://github.com/zaiste/vimified/
