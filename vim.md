@@ -19,8 +19,12 @@ vim wiki
 vimrc
 - [vimified framework][5]
 
+vim256色
+- [256_colors_in_vim][6]
+
 [1]: http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 [2]: http://www.viemu.com/a-why-vi-vim.html
 [3]: http://coolshell.cn/tag/vim
 [4]: http://vim.wikia.com/wiki/Using_tab_pages
 [5]: https://github.com/zaiste/vimified/
+[6]: http://vim.wikia.com/wiki/256_colors_in_vim
