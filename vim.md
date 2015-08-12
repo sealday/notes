@@ -7,15 +7,17 @@
 - [x] 看完vim实用技巧
 - [ ] 可以看完 usr 系列的文章（传说中官方的教程呢）
 
-vim 图文教程
+vim 教程
 - [vim 图文教程][1]
 - [vim 图文教程 pdf][2]
+- [learn vim the hard way!!!][7]
 
 vim 酷酷的壳上面的vim教程
 - [全部][3]
 
 vim wiki
 - [using tab pages][4]
+
 
 vimrc
 - [vimified framework][5]
@@ -29,3 +31,4 @@ vim256色
 [4]: http://vim.wikia.com/wiki/Using_tab_pages
 [5]: https://github.com/zaiste/vimified/
 [6]: http://vim.wikia.com/wiki/256_colors_in_vim
+[7]: http://learnvimscriptthehardway.stevelosh.com/
