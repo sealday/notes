@@ -32,3 +32,6 @@ vim256色
 [5]: https://github.com/zaiste/vimified/
 [6]: http://vim.wikia.com/wiki/256_colors_in_vim
 [7]: http://learnvimscriptthehardway.stevelosh.com/
+
+vim属于越用越舒服的编辑器，不用奢望它可以通过一些别人配置好的东西一下子成为神器，它并不能。
+它能做到的是，让这个编辑器成为你自己的编辑器。
