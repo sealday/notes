@@ -7,6 +7,7 @@
 + [code artist][7]
 + [asciinema 有趣的终端记录器][8]
 + [web token][9]
++ [我喜欢的一个 programmer steve losh][10]
 
 [1]: https://meteorhacks.com/mongodb-oplog-and-meteor
 [2]: https://www.youtube.com/watch?v=g1AT0fO5FVY
@@ -17,3 +18,4 @@
 [7]: http://alignedleft.com/
 [8]: https://asciinema.org/
 [9]: http://haomou.net/2014/08/13/2014_web_token/
+[10]: http://stevelosh.com/
