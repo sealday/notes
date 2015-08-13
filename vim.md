@@ -11,6 +11,7 @@ vim 教程
 - [vim 图文教程][1]
 - [vim 图文教程 pdf][2]
 - [learn vim the hard way!!!][7]
+- [vim sheet xxx][8]
 
 vim 酷酷的壳上面的vim教程
 - [全部][3]
@@ -32,6 +33,7 @@ vim256色
 [5]: https://github.com/zaiste/vimified/
 [6]: http://vim.wikia.com/wiki/256_colors_in_vim
 [7]: http://learnvimscriptthehardway.stevelosh.com/
+[8]: http://vim.rtorr.com/
 
 vim属于越用越舒服的编辑器，不用奢望它可以通过一些别人配置好的东西一下子成为神器，它并不能。
 它能做到的是，让这个编辑器成为你自己的编辑器。
