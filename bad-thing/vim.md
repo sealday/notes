@@ -27,6 +27,9 @@ vimrc
 vim256色
 - [256_colors_in_vim][6]
 
+vim 杂事
+- [comming home to vim][9]
+
 [1]: http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 [2]: http://www.viemu.com/a-why-vi-vim.html
 [3]: http://coolshell.cn/tag/vim
@@ -35,6 +38,7 @@ vim256色
 [6]: http://vim.wikia.com/wiki/256_colors_in_vim
 [7]: http://learnvimscriptthehardway.stevelosh.com/
 [8]: http://vim.rtorr.com/
+[9]: http://stevelosh.com/blog/2010/09/coming-home-to-vim/
 
 vim属于越用越舒服的编辑器，不用奢望它可以通过一些别人配置好的东西一下子成为神器，它并不能。
 它能做到的是，让这个编辑器成为你自己的编辑器。
