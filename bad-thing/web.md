@@ -15,6 +15,8 @@ typescript
 css transform
 - [3d transform demos][9]
 
+[垂直居中][10]
+
 [1]: http://learn.shayhowe.com/html-css/
 [2]: http://learnlayout.com/
 [3]: http://bonsaiden.github.io/JavaScript-Garden/zh/
@@ -24,3 +26,4 @@ css transform
 [7]: http://perfectionkills.com/instanceof-considered-harmful-or-how-to-write-a-robust-isarray/
 [8]: http://blog.alexanderdickson.com/javascript-typeof
 [9]: http://desandro.github.io/3dtransforms/
+[10]: http://segmentfault.com/a/1190000000381042
