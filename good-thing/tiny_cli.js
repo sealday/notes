@@ -25,4 +25,6 @@ rl.on('line', function(line) {
 }).on('close', function() {
   console.log('Have a great day!');
   process.exit(0);
+}).on('SIGCONT', function() {
+  rl.prompt();
 });
