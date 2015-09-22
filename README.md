@@ -7,6 +7,8 @@ notes
 
 接下去要做的事情，就是多说话，多写点代码
 
+看完了程序员的呐喊，现在每天都在努力多花点时间看数学，我要考好。
+
 
 
 [become a web developer intro](https://thewc.co/articles/view/become-a-web-developer-intro)
