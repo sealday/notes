@@ -1,0 +1,8 @@
+链上sqlplus
+
+请输入用户名: system
+输入口令:
+
+SQL> show parameter dispatchers;
+
+SQL> exec dbms_xdb_config.sethttpport(8088);
